@@ -5,7 +5,7 @@ This repository contains 3 professionally developed email templates leveraging v
 1. Personalized Experience with AMPScript.
 
 <p>The image below demonstrates personalized email content tailored to individual preferences and behaviors.</p>
-<img style="max-width: 50%;" src="./images/Personalize_Experience.png" alt="Personalize Experience"/>
+<img src="./images/Personalize_Experience.png" alt="Personalize Experience" style="max-width: 50%;"/>
 
 <p>This demonstrates the implementation of AMPScript in the email template.</p>
 <img src="./images/Personalize_Experience_usng_AMPScript.png" alt="Personalize Experience with AMPScript"/>
