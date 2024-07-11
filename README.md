@@ -8,7 +8,7 @@ This repository contains 3 professionally developed email templates leveraging v
 <img src="./images/Personalize_Experience.png" alt="Personalize Experience" width="400" height="auto"/>
 
 <p>This demonstrates the implementation of AMPScript in the email template.</p>
-<img src="./images/Personalize_Experience_usng_AMPScript.png" alt="Personalize Experience with AMPScript" width="400" height="auto"/>
+<img src="./images/Personalize_Experience_usng_AMPScripts.png" alt="Personalize Experience with AMPScript" width="400" height="auto"/>
 
 
 2. Responsive and Table-based HTML Email Layouts:
